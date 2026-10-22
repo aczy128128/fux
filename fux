@@ -1,0 +1,14 @@
+# 0正常｜1强更｜2公告
+callback=0
+
+# 强更链接，发布时替换测试地址
+update_url=https://baidu.com
+
+# 公告内容，\n 表示换行
+title=Fux公告
+content=这里填写公告内容\n这里填写第二行
+
+# 加群链接，修改 uin 更换群号
+group_url=mqqapi://card/show_pslcard?src_type=internal&version=1&uin=809344618&card_type=group&source=qrcode
+
+# 读取失败强更；断网退出
