@@ -9,6 +9,6 @@ title=Fux公告
 content=这里填写公告内容\n这里填写第二行
 
 # 加群链接，修改 uin 更换群号
-group_url=mqqapi://card/show_pslcard?src_type=internal&version=1&uin=809344618&card_type=group&source=qrcode
+group_url=mqqapi://card/show_pslcard?src_type=internal&version=1&uin=群号&card_type=group&source=qrcode
 
 # 读取失败强更；断网退出
